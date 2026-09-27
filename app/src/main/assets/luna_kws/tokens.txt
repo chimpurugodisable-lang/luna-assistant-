@@ -1,0 +1,11 @@
+<blk> 0
+<sos/eos> 1
+<unk> 2
+l 3
+u 4
+n 5
+a 6
+h 7
+e 8
+y 9
+ 10

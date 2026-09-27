@@ -1,0 +1,6 @@
+{
+  "name": "LUNA",
+  "description": "Hands-free personal AI voice assistant with on-device wake word detection, smart phone actions, and intelligent conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

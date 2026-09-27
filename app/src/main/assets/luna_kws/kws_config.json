@@ -1,0 +1,12 @@
+{
+  "engine": "Sherpa-ONNX / LunaAcousticEngine",
+  "keywords": ["luna", "hey luna"],
+  "sample_rate": 16000,
+  "channels": 1,
+  "confidence_threshold": 0.55,
+  "model_type": "zipformer_kws",
+  "encoder": "encoder.onnx",
+  "decoder": "decoder.onnx",
+  "tokens": "tokens.txt",
+  "keywords_file": "keywords.txt"
+}

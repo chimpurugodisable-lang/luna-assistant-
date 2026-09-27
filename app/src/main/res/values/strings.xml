@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LUNA</string>
+    <string name="assistant_title">LUNA Voice Assistant</string>
+    <string name="status_sleeping">Sleeping</string>
+    <string name="status_listening_wake">Listening for \"Luna\"</string>
+    <string name="status_wake_detected">Wake Word Detected</string>
+    <string name="status_listening_command">Listening...</string>
+    <string name="status_thinking">Thinking...</string>
+    <string name="status_speaking">Speaking...</string>
+    <string name="status_executing">Executing...</string>
+    <string name="status_error">Needs Attention</string>
+    <string name="voice_service_channel_name">LUNA Voice Service</string>
+    <string name="voice_service_channel_desc">Maintains wake-word detection for hands-free voice assistance.</string>
+    <string name="voice_service_notification_title">LUNA is listening</string>
+    <string name="voice_service_notification_text">Say \"Luna\" or \"Hey Luna\" anytime</string>
+    <string name="reminder_channel_name">LUNA Reminders</string>
+    <string name="reminder_channel_desc">Alerts for user scheduled reminders</string>
+</resources>
